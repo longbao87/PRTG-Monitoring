@@ -45,3 +45,13 @@ Version  Date          Notes
 ------------------
 (c) 2023 BaoNL HUB
 </pre>
+
+# Prtg Notification Setting
+![image](https://github.com/longbao87/PRTG-Monitoring/assets/101858638/6f5bb711-73ce-4a1b-8f62-bbdbadad5c82)
+
+Parameters
+-sensor '%sensor' -sensorID '%sensorid' -status '%status' -message '%message' -since '%since' -lastup '%lastup' -device '%device' -sensorURL '%linksensor' -deviceURL '%linkdevice' -serviceURL '%serviceurl'
+
+# Result on DISCORD Application - Channel
+![image](https://github.com/longbao87/PRTG-Monitoring/assets/101858638/52d1195c-a9dc-42e2-b4d7-7e3265d342c0)
+
