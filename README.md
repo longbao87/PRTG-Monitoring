@@ -49,7 +49,7 @@ Version  Date          Notes
 # Prtg Notification Setting
 ![image](https://github.com/longbao87/PRTG-Monitoring/assets/101858638/6f5bb711-73ce-4a1b-8f62-bbdbadad5c82)
 
-Parameters
+# # Parameters
 -sensor '%sensor' -sensorID '%sensorid' -status '%status' -message '%message' -since '%since' -lastup '%lastup' -device '%device' -sensorURL '%linksensor' -deviceURL '%linkdevice' -serviceURL '%serviceurl'
 
 # Result on DISCORD Application - Channel
